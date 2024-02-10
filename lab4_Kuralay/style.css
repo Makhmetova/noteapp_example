@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+h1{
+    text-align: center;
+}
+#noteInput{
+    display: inline-block;
+    margin-left: 600px;
+    border: 2px solid lightblue;
+    border-radius:20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: aliceblue;
+}
+#notesList{
+    padding: 10px;
+    cursor: default;
+    border-radius: 7px;
+    margin-left: 400px;
+}
+#notesList:hover{
+    background-color: lightblue;
+}
+button{
+    display: inline-block;
+
+    margin-top: 10px;
+    border: 2px solid lightblue;
+    border-radius:20px;
+    font-size: 12px;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
